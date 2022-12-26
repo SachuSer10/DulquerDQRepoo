@@ -204,7 +204,7 @@ Nᴀᴍᴇ - {}"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
-IMDb Data:
+IMDb Data:"""
 
 🏷 Title: <a href={url}>{title}</a>
 🎭 Genres: {genres}
