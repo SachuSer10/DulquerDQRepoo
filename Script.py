@@ -188,7 +188,7 @@ Nᴀᴍᴇ - {}"""
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-<b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code><b>
+<b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code><b>"""
 
 
 
@@ -202,11 +202,11 @@ Nᴀᴍᴇ - {}"""
 
 
 
-    IMDB_TEMPLATE_TXT = """
-"""<b>Query:{query}"""
-"""IMDb Data:"""
+     IMDB_TEMPLATE_TXT = """
+ <b>Query:{query}
+IMDb Data:
 
-"""🏷 Title: <a href={url}>{title}</a>
+🏷 Title: <a href={url}>{title}</a>
 🎭 Genres: {genres}
 📆 Year: <a href={url}/releaseinfo>{year}</a>
 🌟 Rating: <a href={url}/ratings>{rating}</a> / 10</b>"""
