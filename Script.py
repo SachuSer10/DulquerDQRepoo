@@ -202,8 +202,8 @@ Nᴀᴍᴇ - {}"""
 
 
 
-     IMDB_TEMPLATE_TXT = """
- <b>Query:{query}
+    IMDB_TEMPLATE_TXT = """
+ <b>Query: {query}
 IMDb Data:
 
 🏷 Title: <a href={url}>{title}</a>
