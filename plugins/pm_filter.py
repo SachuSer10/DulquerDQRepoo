@@ -581,7 +581,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             caption=f_caption,
             protect_content=True if ident == 'checksubp' else False
            
-         [   
+           [   
            
                 
                  
